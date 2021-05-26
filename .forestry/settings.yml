@@ -4,10 +4,6 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Jekyll Pages
-  create: all
-  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
@@ -15,6 +11,10 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: jekyll-pages
+  label: Jekyll Pages
+  create: all
+  match: "**/*"
 - type: directory
   path: ''
   label: Pages
