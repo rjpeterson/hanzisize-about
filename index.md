@@ -70,7 +70,8 @@ page_sections:
       src="/uploads/2021/05/27/brave_64x64.png">
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy me a coffee"><img
+    src="/uploads/2021/05/27/bmc.png"></a>
 block: hero-2
 
 ---
