@@ -29,7 +29,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: squint
-  headline: <img src="/uploads/2021/05/27/nomoresquinting.png" alt="no more squinting">
+  headline: No<br><br>More<br><br><strong>Squinting</strong>
   content: ''
   media:
     image: "/uploads/2021/05/27/contentfeature.png"
