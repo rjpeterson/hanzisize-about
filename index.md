@@ -60,25 +60,14 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: Arabic - Burmese - Chinese - English -Georgian<br>Korean - Hebrew - Hindi
-      - Japanese - Thai
+    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
+      - Hindi - Japanese - Thai
   col_2:
     headline: Multi-Browser Support
     slug: browser
     content: <img src="/uploads/2021/05/27/chrome_64x64.png">   <img src="/uploads/2021/05/27/firefox_64x64.png">   <img
       src="/uploads/2021/05/27/edge_64x64.png">   <img src="/uploads/2021/05/27/opera_64x64.png">   <img
       src="/uploads/2021/05/27/brave_64x64.png">
-- template: detail-content
-  block: text-1
-  headline: Multi-Language Support
-  content: "<p>Arabic - Burmese - Chinese - English -Georgian</p><p>Korean - Hebrew
-    - Hindi - Japanese - Thai</p>"
-- template: detail-content
-  block: text-1
-  headline: Multi-Browser Support
-  content: <p><br><img src="/uploads/2021/05/27/chrome_64x64.png"><img src="/uploads/2021/05/27/firefox_64x64.png"><img
-    src="/uploads/2021/05/27/edge_64x64.png"><img src="/uploads/2021/05/27/opera_64x64.png"><img
-    src="/uploads/2021/05/27/brave_64x64.png"></p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
