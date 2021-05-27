@@ -27,10 +27,14 @@
   background-position-x: center;
 }
 
-.flex-large {
-  flex-basis: 55%
+@media screen and (min-width: 700px) {
+  .flex-large {
+    flex-basis: 55%;
+  }
 }
 
-.flex-small {
-  flex-basis: 35%
+@media screen and (min-width: 700px) {
+  .flex-small {
+    flex-basis: 35%;
+  }
 }
