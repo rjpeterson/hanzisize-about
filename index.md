@@ -72,6 +72,18 @@ page_sections:
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy me a coffee"><img
     src="/uploads/2021/05/27/bmc.png"></a>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/05/27/herobanner-backroundonly.png"
+  headline: And the best part is, <strong>its free.</strong>
+  content: We don't even save or use a single bit of your data.
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 block: hero-2
 
 ---
