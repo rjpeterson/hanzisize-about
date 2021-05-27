@@ -30,9 +30,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Give it a try
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2021/05/26/hanzisize-slideshow2.png"
+    image: "/uploads/2021/05/27/herobanneroverlay.png"
+    alt_text: Extension popup window example
+  background_image: "/uploads/2021/05/27/herobanner-nooverlay.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
