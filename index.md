@@ -22,9 +22,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Give it a try
   image:
-    image: "/uploads/2021/05/27/herobanneroverlay.png"
+    image: ''
     alt_text: Extension popup window example
-  background_image: "/uploads/2021/05/27/herobanner-nooverlay.png"
+  background_image: "/uploads/2021/05/27/herobanner-withoverlay.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
