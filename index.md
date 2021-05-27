@@ -48,8 +48,8 @@ page_sections:
   col_3:
     headline: See More Detail
     slug: detail
-    content: Don't miss even the smallest details of complex characters like those
-      in Chinese or Arabic
+    content: Catch even the smallest details of complex characters like those in Chinese
+      or Arabic
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/27/biang.png"
