@@ -23,8 +23,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Hanzisize
-  content: Easily resize language-specific text on the web
+  headline: ''
+  content: ''
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
