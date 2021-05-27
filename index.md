@@ -26,7 +26,7 @@ page_sections:
   headline: ''
   content: ''
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Give it a try
   image:
