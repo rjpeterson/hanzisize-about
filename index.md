@@ -55,6 +55,17 @@ page_sections:
   image: "/uploads/2021/05/27/biang-svg.svg"
   slug: biang
   caption: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Multi-Language Support
+    slug: language
+    content: Arabic - Burmese - Chinese - English -Georgian<br>Korean - Hebrew - Hindi
+      - Japanese - Thai
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
 - template: detail-content
   block: text-1
   headline: Multi-Language Support
