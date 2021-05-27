@@ -50,6 +50,11 @@ page_sections:
     slug: detail
     content: Don't miss even the smallest details of complex characters like those
       in Chinese or Arabic
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/27/biang-svg.svg"
+  slug: biang
+  caption: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -58,11 +63,6 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
