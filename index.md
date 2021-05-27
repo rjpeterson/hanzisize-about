@@ -48,11 +48,11 @@ page_sections:
   col_3:
     headline: See More Detail
     slug: detail
-    content: Don't miss even the smallest details of complex characters like those
-      in Chinese or Arabic
+    content: Catch even the smallest details of complex characters like those in Chinese
+      or Arabic
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/05/27/biang-svg.svg"
+  image: "/uploads/2021/05/27/biang.png"
   slug: biang
   caption: ''
 - template: 2-column-text
@@ -70,7 +70,7 @@ page_sections:
       src="/uploads/2021/05/27/brave_64x64.png">
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/2021/05/27/herobanner-backroundonly.png"
+  background_image: "/uploads/2021/05/27/herobanner2.png"
   headline: And the best part is, <strong>its free.</strong>
   content: We don't even save or use a single bit of your data.
   image:
