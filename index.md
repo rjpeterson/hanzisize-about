@@ -46,9 +46,10 @@ page_sections:
     content: Images, page divisions, and other languages stay the same size. Only
       text of the language you want gets larger.
   col_3:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: See More Detail
+    slug: detail
+    content: Don't miss even the smallest details of complex characters like those
+      in Chinese or Arabic
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
