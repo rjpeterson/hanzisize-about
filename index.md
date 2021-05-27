@@ -72,7 +72,7 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2021/05/27/herobanner2.png"
   headline: And the best part is, <strong>it's free.</strong>
-  content: We don't even save or use a single bit of your data.
+  content: And we don't even save or use a single bit of your data.
   image:
     image: ''
     alt_text: ''
