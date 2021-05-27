@@ -42,8 +42,9 @@ page_sections:
     content: Resize text on any webpage with just a single hotkey
   col_2:
     headline: Only Resize What You Need
-    slug: ''
-    content: ''
+    slug: need
+    content: Images, page divisions, and other languages stay the same size. Only
+      text of the language you want gets larger.
   col_3:
     headline: ''
     slug: ''
