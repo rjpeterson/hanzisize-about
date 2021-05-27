@@ -22,7 +22,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Give it a try
   image:
-    image: "/uploads/2021/05/27/herobanneroverlay.png"
+    image: ''
     alt_text: ''
   background_image: "/uploads/2021/05/27/herobanner-nooverlay.png"
 - template: content-feature
