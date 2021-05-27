@@ -71,7 +71,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/05/27/herobanner2.png"
-  headline: And the best part is, <strong>its free.</strong>
+  headline: And the best part is, <strong>it's free.</strong>
   content: We don't even save or use a single bit of your data.
   image:
     image: ''
