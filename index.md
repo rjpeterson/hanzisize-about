@@ -41,7 +41,7 @@ page_sections:
     slug: hotkeys
     content: Resize text on any webpage with just a single hotkey
   col_2:
-    headline: ''
+    headline: Only Resize What You Need
     slug: ''
     content: ''
   col_3:
