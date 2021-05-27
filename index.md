@@ -7,17 +7,11 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
   - link: "#blocks"
-    link_text: Blocks
+    link_text: Install
   cta:
-    url: ''
-    button_text: Donate
+    url: "#donate"
+    button_text: Support Us
 - template: hero-banner-w-image
   block: hero-2
   slug: features
