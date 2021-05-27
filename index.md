@@ -22,7 +22,7 @@ page_sections:
     url: ''
     button_text: Try it now
   image:
-    image: "/uploads/2021/05/27/herobanneroverlay.png"
+    image: ''
     alt_text: ''
   background_image: "/uploads/2021/05/27/herobanner-backroundonly.png"
 - template: content-feature
