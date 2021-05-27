@@ -23,13 +23,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Hanzisize <br><strong>read at ease.</strong>
+  content: Resize text in any language on demand.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: ''
+    button_text: Install Now
   image:
     image: "/uploads/2021/05/27/herobanneroverlay.png"
     alt_text: extension popup example
