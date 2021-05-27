@@ -23,7 +23,7 @@ page_sections:
     button_text: Give it a try
   image:
     image: ''
-    alt_text: Extension popup window example
+    alt_text: ''
   background_image: "/uploads/2021/05/27/herobanner-withoverlay.png"
 - template: content-feature
   block: feature-1
