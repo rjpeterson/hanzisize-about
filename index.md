@@ -22,9 +22,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Give it a try
   image:
-    image: ''
+    image: "/uploads/2021/05/27/herobanneroverlay.png"
     alt_text: ''
-  background_image: ''
+  background_image: "/uploads/2021/05/27/herobanner-nooverlay.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
