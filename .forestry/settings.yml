@@ -16,7 +16,7 @@ sections:
   create: all
 - type: directory
   path: ''
-  label: Pages
+  label: Markup Pages
   create: all
   match: "*.md"
   exclude: "*README.md"
