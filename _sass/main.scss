@@ -27,14 +27,14 @@
   background-position-x: center;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   .flex-large {
-    flex-basis: 55%;
+    flex-basis: 55% !important;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   .flex-small {
-    flex-basis: 35%;
+    flex-basis: 35% !important;
   }
 }
