@@ -80,6 +80,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy me a coffee"><img
