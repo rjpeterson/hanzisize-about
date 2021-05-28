@@ -121,7 +121,7 @@ page_sections:
       url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     headline: ''
     slug: chrome
-    content: ''
+    content: <img src="/uploads/2021/05/27/chrome_64x64.png">
   col_2:
     cta:
       enabled: true
@@ -129,7 +129,7 @@ page_sections:
       url: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     headline: ''
     slug: firefox
-    content: ''
+    content: <img src="/uploads/2021/05/27/firefox_64x64.png">
   col_3:
     cta:
       button_text: Add to Edge
@@ -137,7 +137,7 @@ page_sections:
       url: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     headline: ''
     slug: edge
-    content: ''
+    content: <img src="/uploads/2021/05/27/edge_64x64.png">
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/27/logonamehorizontal.png"
