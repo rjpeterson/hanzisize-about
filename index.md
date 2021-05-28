@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -79,9 +79,12 @@ page_sections:
   cta:
     enabled: false
     url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
-  content: <img src="/uploads/2021/05/28/bmc.png">
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
+    src="/uploads/2021/05/28/bmc.png"></a>
 block: hero-2
 
 ---
+[https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
