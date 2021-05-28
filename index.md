@@ -82,7 +82,7 @@ page_sections:
     button_text: ''
 - template: signup-bar
   block: cta-bar
-  content: ''
+  content: signup bar here
   email_recipient: ''
 - template: simple-footer
   block: footer-1
