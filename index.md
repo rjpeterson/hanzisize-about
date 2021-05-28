@@ -112,10 +112,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: simple-footer
-  block: footer-1
-  content: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"
-    title="Buy Me A Coffee" alt="buy me a coffee button"></a>
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -142,6 +138,10 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"
+    title="Buy Me A Coffee" alt="buy me a coffee button"></a>
 block: hero-2
 
 ---
