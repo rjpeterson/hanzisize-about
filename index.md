@@ -41,7 +41,7 @@ page_sections:
     slug: hotkeys
     content: Resize text on any webpage with just a single hotkey
     cta:
-      enabled: true
+      enabled: false
       url: ''
       button_text: ''
   col_2:
