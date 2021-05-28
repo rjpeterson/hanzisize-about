@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "#blocks"
+  - link: "#install"
     link_text: Install
   cta:
     url: "#donate"
@@ -112,10 +112,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: simple-footer
-  block: footer-1
-  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
-    src="/uploads/2021/05/28/bmc.png"></a>
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -142,7 +138,12 @@ page_sections:
     headline: ''
     slug: ''
     content: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"
+    title="Buy Me A Coffee" alt="buy me a coffee button"></a>
 block: hero-2
 
 ---
+
 [https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
