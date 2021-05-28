@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -52,7 +52,7 @@ page_sections:
       or Arabic
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/05/27/biang.png"
+  image: "/uploads/2021/05/28/biang.png"
   slug: biang
   caption: ''
 - template: 2-column-text
@@ -96,8 +96,7 @@ page_sections:
     content: [Install on Edge](http://example.com/){: .btn .btn-green}
 - template: simple-footer
   block: footer-1
-  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy me a coffee"><img
-    src="/uploads/2021/05/27/bmc.png"></a>
+  content: <img src="/uploads/2021/05/28/bmc.png">
 block: hero-2
 
 ---

@@ -1,6 +1,7 @@
 ---
 label: navigation-header-w-button
 hide_body: false
+display_field: block
 fields:
 - type: text
   hidden: true
