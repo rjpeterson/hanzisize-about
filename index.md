@@ -8,7 +8,11 @@ page_sections:
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
   - link: "#chrome"
-    link_text: Install
+    link_text: Install on Chrome
+  - link: ''
+    link_text: Install On Firefox
+  - link: ''
+    link_text: Install on Edge
   cta:
     url: "#donate"
     button_text: Support Us
