@@ -40,16 +40,28 @@ page_sections:
     headline: Customizable Hotkeys
     slug: hotkeys
     content: Resize text on any webpage with just a single hotkey
+    cta:
+      enabled: true
+      url: ''
+      button_text: ''
   col_2:
     headline: Only Resize What You Need
     slug: need
     content: Images, page divisions, and other languages stay the same size. Only
       text of the language you want gets larger.
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
   col_3:
     headline: See More Detail
     slug: detail
     content: Catch even the smallest details of complex characters like those in Chinese
       or Arabic
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
   column_4:
     block: ''
     background_image: ''
@@ -74,12 +86,20 @@ page_sections:
     slug: language
     content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
       - Hindi - Japanese - Thai
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
   col_2:
     headline: Multi-Browser Support
     slug: browser
     content: <img src="/uploads/2021/05/27/chrome_64x64.png">   <img src="/uploads/2021/05/27/firefox_64x64.png">   <img
       src="/uploads/2021/05/27/edge_64x64.png">   <img src="/uploads/2021/05/27/opera_64x64.png">   <img
       src="/uploads/2021/05/27/brave_64x64.png">
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/05/27/herobanner2.png"
@@ -92,36 +112,36 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    slug: ''
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: ''
-  col_3:
-    headline: ''
-    slug: ''
-    content: ''
-  column_4:
-    block: ''
-    background_image: ''
-    image:
-      image: ''
-      alt_text: ''
-    headline: ''
-    content: ''
-    cta:
-      enabled: true
-      button_text: Install on Chrome
-      url: ''
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
     src="/uploads/2021/05/28/bmc.png"></a>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    cta:
+      button_text: Add to Chrome
+      enabled: true
+      url: ''
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    cta:
+      enabled: true
+      button_text: Add to Firefox
+      url: ''
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    cta:
+      button_text: Add to Edge
+      enabled: true
+      url: ''
+    headline: ''
+    slug: ''
+    content: ''
 block: hero-2
 
 ---
