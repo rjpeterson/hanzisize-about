@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "#install"
+  - link: "#chrome"
     link_text: Install
   cta:
     url: "#donate"
@@ -118,25 +118,25 @@ page_sections:
     cta:
       button_text: Add to Chrome
       enabled: true
-      url: ''
+      url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     headline: ''
-    slug: ''
+    slug: chrome
     content: ''
   col_2:
     cta:
       enabled: true
       button_text: Add to Firefox
-      url: ''
+      url: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     headline: ''
-    slug: ''
+    slug: firefox
     content: ''
   col_3:
     cta:
       button_text: Add to Edge
       enabled: true
-      url: ''
+      url: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     headline: ''
-    slug: ''
+    slug: edge
     content: ''
 - template: simple-footer
   block: footer-1
