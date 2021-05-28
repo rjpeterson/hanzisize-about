@@ -52,7 +52,7 @@ page_sections:
       or Arabic
 - template: full-width-media-element
   block: media-1
-  image: ''
+  image: "/uploads/2021/05/28/biang.png"
   slug: biang
   caption: ''
 - template: 2-column-text
