@@ -32,3 +32,13 @@ fields:
     name: column
     label: Column
     template: text-column
+- name: column_4
+  type: field_group
+  config: {}
+  fields:
+  - name: button
+    type: include
+    config: {}
+    template: hero-banner-w-image
+    label: Button
+  label: Column 4
