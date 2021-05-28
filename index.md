@@ -79,21 +79,6 @@ page_sections:
   cta:
     enabled: false
     url: ''
-#     button_text: ''
-# - template: install-bar
-#   block: install-bar-1
-#   col_1:
-#     # headline: Chrome
-#     slug: install-chrome
-#     content: [Install on Chrome](http://example.com/){: .btn .btn-blue}
-#   col_2:
-#     # headline: Firefox
-#     slug: install-firefox
-#     content: [Install on Firefox](http://example.com/){: .btn .btn-purple}
-#   col_3:
-#     # headline: Edge
-#     slug: install-edge
-#     content: [Install on Edge](http://example.com/){: .btn .btn-green}
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2021/05/28/bmc.png">
