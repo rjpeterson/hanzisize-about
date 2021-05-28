@@ -92,10 +92,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: simple-footer
-  block: footer-1
-  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
-    src="/uploads/2021/05/28/bmc.png"></a>
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -122,6 +118,10 @@ page_sections:
       enabled: true
       button_text: Install on Chrome
       url: ''
+- template: simple-footer
+  block: footer-1
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
+    src="/uploads/2021/05/28/bmc.png"></a>
 block: hero-2
 
 ---
