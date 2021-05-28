@@ -2,6 +2,13 @@
 label: Install Bar
 hide_body: true
 fields:
+- name: block
+  type: blocks
+  label: block
+  template_types: []
+  config:
+    min: 
+    max: 
 - name: install_button_field_group
   type: field_group_list
   fields:
