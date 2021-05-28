@@ -50,6 +50,18 @@ page_sections:
     slug: detail
     content: Catch even the smallest details of complex characters like those in Chinese
       or Arabic
+  column_4:
+    block: ''
+    background_image: ''
+    image:
+      image: ''
+      alt_text: ''
+    headline: ''
+    content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/28/biang.png"
@@ -84,6 +96,32 @@ page_sections:
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
     src="/uploads/2021/05/28/bmc.png"></a>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
+  column_4:
+    block: ''
+    background_image: ''
+    image:
+      image: ''
+      alt_text: ''
+    headline: ''
+    content: ''
+    cta:
+      enabled: true
+      button_text: Install on Chrome
+      url: ''
 block: hero-2
 
 ---
