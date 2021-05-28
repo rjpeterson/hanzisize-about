@@ -83,15 +83,15 @@ page_sections:
 - template: install-bar
   block: install-bar-1
   col_1:
-    headline: Chrome
+    # headline: Chrome
     slug: install-chrome
     content: [Install on Chrome](http://example.com/){: .btn .btn-blue}
   col_2:
-    headline: Firefox
+    # headline: Firefox
     slug: install-firefox
     content: [Install on Firefox](http://example.com/){: .btn .btn-purple}
   col_3:
-    headline: Edge
+    # headline: Edge
     slug: install-edge
     content: [Install on Edge](http://example.com/){: .btn .btn-green}
 - template: simple-footer
