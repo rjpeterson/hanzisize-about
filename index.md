@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "#blocks"
+  - link: "#chrome"
     link_text: Install
   cta:
     url: "#donate"
@@ -41,7 +41,7 @@ page_sections:
     slug: hotkeys
     content: Resize text on any webpage with just a single hotkey
     cta:
-      enabled: true
+      enabled: false
       url: ''
       button_text: ''
   col_2:
@@ -112,37 +112,43 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: simple-footer
-  block: footer-1
-  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
-    src="/uploads/2021/05/28/bmc.png"></a>
 - template: 3-column-text
   block: three-column-1
   col_1:
     cta:
       button_text: Add to Chrome
       enabled: true
-      url: ''
+      url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     headline: ''
-    slug: ''
-    content: ''
+    slug: chrome
+    content: <img src="/uploads/2021/05/27/chrome_64x64.png">
   col_2:
     cta:
       enabled: true
       button_text: Add to Firefox
-      url: ''
+      url: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     headline: ''
-    slug: ''
-    content: ''
+    slug: firefox
+    content: <img src="/uploads/2021/05/27/firefox_64x64.png">
   col_3:
     cta:
       button_text: Add to Edge
       enabled: true
-      url: ''
+      url: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     headline: ''
-    slug: ''
-    content: ''
+    slug: edge
+    content: <img src="/uploads/2021/05/27/edge_64x64.png">
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/05/27/logonamehorizontal.png"
+  col_3: Donate Bitcoin<img src="/uploads/2021/05/28/btcdonation.jpeg">
+  col_2: Want to show your love for Hanzisize?
+  col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
+- template: simple-footer
+  block: footer-1
+  content: Made with &lt;3 by rjpeterson
 block: hero-2
 
 ---
+
 [https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
