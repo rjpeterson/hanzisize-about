@@ -80,6 +80,20 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Install on Chrome
+    slug: chrome
+    content: ''
+  col_2:
+    headline: Install on Firefox
+    slug: firefox
+    content: ''
+  col_3:
+    headline: Install on Edge
+    slug: edge
+    content: ''
 - template: simple-footer
   block: footer-1
   content: <img src="/uploads/2021/05/28/bmc.png">
