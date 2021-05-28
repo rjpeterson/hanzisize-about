@@ -25,27 +25,6 @@ page_sections:
     image: "/uploads/2021/05/27/herobanneroverlay.png"
     alt_text: ''
   background_image: "/uploads/2021/05/27/herobanner-backroundonly.png"
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Multi-Language Support
-    slug: language
-    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
-      - Hindi - Japanese - Thai
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-  col_2:
-    headline: Multi-Browser Support
-    slug: browser
-    content: <img src="/uploads/2021/05/27/chrome_64x64.png">   <img src="/uploads/2021/05/27/firefox_64x64.png">   <img
-      src="/uploads/2021/05/27/edge_64x64.png">   <img src="/uploads/2021/05/27/opera_64x64.png">   <img
-      src="/uploads/2021/05/27/brave_64x64.png">
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -91,6 +70,27 @@ page_sections:
       alt_text: ''
     headline: ''
     content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Multi-Language Support
+    slug: language
+    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
+      - Hindi - Japanese - Thai
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
+  col_2:
+    headline: Multi-Browser Support
+    slug: browser
+    content: <img src="/uploads/2021/05/27/chrome_64x64.png">   <img src="/uploads/2021/05/27/firefox_64x64.png">   <img
+      src="/uploads/2021/05/27/edge_64x64.png">   <img src="/uploads/2021/05/27/opera_64x64.png">   <img
+      src="/uploads/2021/05/27/brave_64x64.png">
     cta:
       enabled: false
       url: ''
