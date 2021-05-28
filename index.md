@@ -80,6 +80,20 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: install-bar
+  block: install-bar-1
+  col_1:
+    headline: ''
+    slug: install-chrome
+    content: [Install on Chrome](http://example.com/){: .btn .btn-blue}
+  col_2:
+    headline: ''
+    slug: install-firefox
+    content: [Install on Firefox](http://example.com/){: .btn .btn-purple}
+  col_3:
+    headline: ''
+    slug: install-edge
+    content: [Install on Edge](http://example.com/){: .btn .btn-green}
 - template: simple-footer
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy me a coffee"><img
