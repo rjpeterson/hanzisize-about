@@ -1,6 +1,7 @@
 ---
 label: hero-banner-w-image
 hide_body: false
+display_field: headline
 fields:
 - type: text
   hidden: true
