@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Hanzisize
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -143,7 +143,7 @@ page_sections:
       title="Edge Add-ons"><img src="/uploads/2021/05/28/edge_128x128.png"></a>
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/05/27/logonamehorizontal.png"
+  image: "/uploads/2021/05/28/logosquare.png"
   col_3: Donate Bitcoin<img src="/uploads/2021/05/28/btcdonation.png">
   col_2: Want to show your love for Hanzisize?
   col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
