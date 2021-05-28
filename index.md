@@ -144,7 +144,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
-  col_3: Donate Bitcoin<img src="/uploads/2021/05/28/btcdonation.png">
+  col_3: Donate Bitcoin<br><img src="/uploads/2021/05/28/btcdonation.png">
   col_2: Want to show your love for Hanzisize?
   col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
 - template: simple-footer
