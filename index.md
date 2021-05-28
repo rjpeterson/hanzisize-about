@@ -142,6 +142,12 @@ page_sections:
   block: footer-1
   content: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"
     title="Buy Me A Coffee" alt="buy me a coffee button"></a>
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/05/27/logonamehorizontal.png"
+  col_3: Donate Bitcoin<img src="/uploads/2021/05/28/btcdonation.jpeg">
+  col_2: Want to show your love for Hanzisize?
+  col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
 block: hero-2
 
 ---
