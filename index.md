@@ -82,7 +82,8 @@ page_sections:
     button_text: ''
 - template: simple-footer
   block: footer-1
-  content: <img src="/uploads/2021/05/28/bmc.png">
+  content: <a href="https://www.buymeacoffee.com/djmouthguard" title="Buy Me A Coffee"><img
+    src="/uploads/2021/05/28/bmc.png"></a>
 block: hero-2
 
 ---
