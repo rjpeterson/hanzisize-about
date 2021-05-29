@@ -11,7 +11,7 @@
         {% for nav_item in section.navigation %}
         <li class="nav-item {% if page.url == nav_item.link %}active{% endif %} button blue-background off-white small block-header-2--cta" href="{{ nav_item.link | relative_url }}">{{ nav_item.link_text }}</li>
         {% endfor %}
-        <li class="button off-white orange-background small block-header-2--cta" href="{{ section.cta.url }}">{{ section.cta.button_text }}>
+        <li class="nav-item button off-white orange-background small block-header-2--cta" href="{{ section.cta.url }}">{{ section.cta.button_text }}>
         </li>
     </ul>
   </nav>
