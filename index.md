@@ -15,7 +15,7 @@ page_sections:
     link_text: Install on Edge
   cta:
     url: https://github.com/rjpeterson/Hanzisize#donate
-    button_text: Make a Donation
+    button_text: Support Us!
 - template: hero-banner-w-image
   block: hero-2
   slug: features
