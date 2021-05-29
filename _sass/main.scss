@@ -42,7 +42,18 @@
 @media screen and (min-width: 700px) {
   .block-footer-2 .column {
     text-align: center;
+    flex-basis: 30%
   }
+}
+
+@media screen and (min-width: 910px) {
+  .block-footer-2 .column {
+    flex-basis: inherit;
+  }
+}
+
+.block-footer-2 {
+  padding: 3rem 4rem 0rem;
 }
 
 .block-footer-2 .column {
@@ -60,4 +71,5 @@
 .footer-images img{
   max-width: 60%;
   min-width: 120px;
+  margin-top: -2rem;
 }
