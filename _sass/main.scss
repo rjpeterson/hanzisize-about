@@ -39,6 +39,11 @@
   }
 }
 
+.block-three-column-1:nth-of-type(2) {
+  padding-bottom: 7rem;
+  padding-top: 4rem;
+}
+
 @media screen and (min-width: 700px) {
   .block-footer-2 .column {
     text-align: center;
@@ -53,7 +58,7 @@
 }
 
 .block-footer-2 {
-  padding: 3rem 4rem 0rem;
+  padding: 6rem 4rem 0rem;
 }
 
 .block-footer-2 .column {
