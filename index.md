@@ -10,7 +10,7 @@ page_sections:
   - link: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     link_text: Install on Chrome
   - link: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
-    link_text: Install On Firefox
+    link_text: Install on Firefox
   - link: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     link_text: Install on Edge
   cta:
