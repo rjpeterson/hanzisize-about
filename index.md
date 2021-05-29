@@ -7,11 +7,11 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "#chrome"
+  - link: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     link_text: Install on Chrome
-  - link: ''
+  - link: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     link_text: Install On Firefox
-  - link: ''
+  - link: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     link_text: Install on Edge
   cta:
     url: "#donate"
