@@ -22,8 +22,18 @@
   background-color: #74BED3;
 }
 
+.block-header-2 {
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.block-header-2--logo {
+  padding: 2rem 0;
+}
+
 .block-header-2--nav {
   padding-left: 1rem;
+  justify-content: space-around;
 }
 
 @media screen and (min-width: 612px) {
@@ -34,7 +44,10 @@
 
 .block-header-2 .nav-item {
   padding: .4rem;
-  }
+  margin-bottom: .8rem;
+}
+
+
 
 .adjust-block-hero {
   min-height: 100%;
