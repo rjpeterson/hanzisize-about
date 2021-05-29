@@ -39,6 +39,20 @@
   }
 }
 
+@media screen and (min-width: 700px) {
+  .block-footer-2 .column {
+    text-align: center;
+  }
+}
+
+.block-footer-2 .column {
+  text-align: center;
+}
+
+.block-footer-2 .columns {
+  justify-content: space-evenly;
+}
+
 .cta-position {
   top: 1rem;
 }
