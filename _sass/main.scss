@@ -26,6 +26,12 @@
   padding-left: 1rem;
 }
 
+@media screen and (min-width: 612px) {
+  .block-header-2--nav {
+    text-align: center;
+  }
+}
+
 .block-header-2 .nav-item {
   padding: .4rem;
   }
