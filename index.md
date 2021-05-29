@@ -14,8 +14,8 @@ page_sections:
   - link: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     link_text: Install on Edge
   cta:
-    url: "#donate"
-    button_text: Support Us
+    url: https://github.com/rjpeterson/Hanzisize#donate
+    button_text: Make a Donation
 - template: hero-banner-w-image
   block: hero-2
   slug: features
