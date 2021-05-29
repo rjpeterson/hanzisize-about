@@ -1,17 +1,21 @@
 ---
 layout: blocks
-title: Homepage
+title: Hanzisize
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/05/27/logonamehorizontal.png"
   navigation:
-  - link: "#chrome"
-    link_text: Install
+  - link: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
+    link_text: Install on Chrome
+  - link: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
+    link_text: Install On Firefox
+  - link: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
+    link_text: Install on Edge
   cta:
-    url: "#donate"
-    button_text: Support Us
+    url: https://github.com/rjpeterson/Hanzisize#donate
+    button_text: Make a Donation
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -74,11 +78,6 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/05/28/biang.png"
-  slug: biang
-  caption: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -100,6 +99,11 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/28/biang.png"
+  slug: biang
+  caption: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/05/27/herobanner2.png"
@@ -121,7 +125,8 @@ page_sections:
       url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     headline: ''
     slug: chrome
-    content: <img src="/uploads/2021/05/27/chrome_64x64.png">
+    content: <a href="https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en"
+      title="Chrome Webstore"><img src="/uploads/2021/05/28/chrome_128x128.png"></a>
   col_2:
     cta:
       enabled: true
@@ -129,7 +134,8 @@ page_sections:
       url: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     headline: ''
     slug: firefox
-    content: <img src="/uploads/2021/05/27/firefox_64x64.png">
+    content: <a href="https://addons.mozilla.org/en-US/firefox/addon/hanzisize/" title="Firefox
+      Add-ons"><img src="/uploads/2021/05/28/firefox_128x128.png"></a>
   col_3:
     cta:
       button_text: Add to Edge
@@ -137,10 +143,11 @@ page_sections:
       url: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     headline: ''
     slug: edge
-    content: <img src="/uploads/2021/05/27/edge_64x64.png">
+    content: <a href="https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa"
+      title="Edge Add-ons"><img src="/uploads/2021/05/28/edge_128x128.png"></a>
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/05/27/logonamehorizontal.png"
+  image: "/uploads/2021/05/28/logosquare.png"
   col_3: <img src="/uploads/2021/05/28/casaSKbtcQR.png" height="3rem" width="3rem">
   col_2: Want to show your love for Hanzisize?
   col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
@@ -150,5 +157,4 @@ page_sections:
 block: hero-2
 
 ---
-
 [https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
