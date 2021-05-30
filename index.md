@@ -23,7 +23,7 @@ page_sections:
   content: Resize text in any language on demand.
   cta:
     enabled: true
-    url: ''
+    url: '#install'
     button_text: Try it now
   image:
     image: "/uploads/2021/05/27/herobanneroverlay.png"

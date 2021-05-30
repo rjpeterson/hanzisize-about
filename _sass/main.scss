@@ -47,7 +47,6 @@
   }
 }
 
-// This needs media queries
 .block-header-2--nav ul {
   display: flex;
   justify-content: inherit;
@@ -158,5 +157,17 @@
 @media screen and (min-width: 750px) and (max-width: 1000px) {
   .button.small {
     font-size: .75rem
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 773px) {
+  .block-hero-2, .block-hero-2 .columns {
+    flex-direction: column;
+  }
+  .block-hero-2 .column.text {
+    padding-bottom: 50px;
+  }
+  .block-hero-2 .column.media img {
+    width: 70vw;
   }
 }
