@@ -1,4 +1,41 @@
 ---
 label: my-3-column-text
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: my-3-column-text-1
+- name: column-1
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 1
+- name: column_2
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 2
+- name: column_3
+  type: field_group
+  config: {}
+  fields:
+  - name: column
+    type: include
+    config: {}
+    template: text-column
+    label: Column
+  label: Column 3
