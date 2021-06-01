@@ -2,5 +2,5 @@
 main:
 - identifier: home
   url: "/"
-  weight: 1
+  weight: 2
   title: Home
