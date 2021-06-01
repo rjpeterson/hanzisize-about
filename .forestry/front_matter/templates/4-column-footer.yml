@@ -14,7 +14,7 @@ fields:
   type: text
   config:
     required: false
-  label: Image Link
+  label: Column 1 Image Link
 - type: textarea
   name: col_2
   label: Column 2 Content
@@ -27,6 +27,11 @@ fields:
   config:
     maxSize: 64
   label: Column 3 Image
+- name: column_3_image_link
+  type: text
+  config:
+    required: false
+  label: Column 3 Image Link
 - type: textarea
   name: col_3
   label: Column 3 Content
@@ -39,6 +44,11 @@ fields:
   config:
     maxSize: 64
   label: Column 4 Image
+- name: column_4_image_link
+  type: text
+  config:
+    required: false
+  label: Column 4 Image Link
 - type: textarea
   name: col_4
   label: Column 4 Content
