@@ -24,6 +24,11 @@ fields:
   config:
     maxSize: 64
   label: Image
+- name: image_link
+  type: text
+  config:
+    required: false
+  label: Image Link
 - type: field_group
   name: cta
   label: Call-to-action
