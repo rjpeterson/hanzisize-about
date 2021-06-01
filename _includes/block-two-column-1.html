@@ -7,7 +7,12 @@
       </div>
       <div class="column">
         <h3>{{ section.col_2.headline }}</h3>
-        <p class="dark-grey">{{ section.col_2.content }}</p>
+        <ul>
+          {% for image in section.gallery %}
+            <li><img src="{{ image | relative_url }}"></li>
+          {% endfor %}
+        </ul>
+        <!-- <p class="dark-grey">{{ section.col_2.content }}</p> -->
       </div>           
     </div>
   </div>

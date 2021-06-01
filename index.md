@@ -73,18 +73,6 @@ page_sections:
       button_text: ''
     gallery: []
     image: ''
-  column_4:
-    block: ''
-    background_image: ''
-    image:
-      image: ''
-      alt_text: ''
-    headline: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -161,36 +149,6 @@ page_sections:
     slug: edge
     content: <a href="https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa"
       title="Edge Add-ons"><img src="/uploads/2021/05/28/edge_128x128.png"></a>
-  column-1:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-    gallery: []
-    image: ''
-  column_2:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-    gallery: []
-    image: ''
-  column_3:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-    gallery: []
-    image: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
@@ -209,4 +167,3 @@ page_sections:
 block: hero-2
 
 ---
-[https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
