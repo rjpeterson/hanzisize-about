@@ -22,6 +22,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: column_3_image
+  type: file
+  config:
+    maxSize: 64
+  label: Column 3 Image
 - type: textarea
   name: col_3
   label: Column 3 Content
@@ -29,6 +34,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: column_4_image
+  type: file
+  config:
+    maxSize: 64
+  label: Column 4 Image
 - type: textarea
   name: col_4
   label: Column 4 Content
