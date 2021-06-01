@@ -23,7 +23,7 @@ page_sections:
   content: Resize text in any language on demand.
   cta:
     enabled: true
-    url: '#install'
+    url: "#install"
     button_text: Try it now
   image:
     image: "/uploads/2021/05/27/herobanneroverlay.png"
@@ -153,7 +153,8 @@ page_sections:
   col_4: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
 - template: simple-footer
   block: footer-1
-  content: Made with &lt;3 by rjpeterson
+  content: Made with &lt;3 by rjpeterson<br><a href="http://www.freepik.com" title="">With
+    assets designed by Cosmo-Studio / Freepik</a>
 block: hero-2
 
 ---
