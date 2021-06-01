@@ -7,8 +7,8 @@ fields:
   type: text
   config:
     required: false
-  label: header
-  hidden: false
+  label: block
+  hidden: true
   default: my-3-column-text-1
 - name: column-1
   type: field_group
