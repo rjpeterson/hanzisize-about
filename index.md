@@ -196,8 +196,12 @@ page_sections:
   image: "/uploads/2021/05/28/logosquare.png"
   image_link: https://github.com/rjpeterson/Hanzisize
   col_2: "<h2>Love Hanzisize?</h2><h3>Please donate $5</h3><h3>❤️It truly helps❤️</h3>"
-  col_4: <a href="bitcoin:3DDKyyQh3o5Ve6mrCn5L8ttquddbxkY4q8"><img src="/uploads/2021/05/28/casaSKbtcQR.png"></a>
-  col_3: <a href="https://www.buymeacoffee.com/djmouthguard" title=""><img src="/uploads/2021/05/28/bmc.png"></a>
+  col_4: ''
+  col_3: ''
+  column_3_image: "/uploads/2021/05/28/bmc.png"
+  column_4_image: "/uploads/2021/05/28/casaSKbtcQR.png"
+  column_3_image_link: https://www.buymeacoffee.com/djmouthguard
+  column_4_image_link: bitcoin:3DDKyyQh3o5Ve6mrCn5L8ttquddbxkY4q8
 - template: simple-footer
   block: footer-1
   content: "Made with \U0001F375 by rjpeterson<br><a href=\"http://www.freepik.com\"
