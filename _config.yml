@@ -4,7 +4,7 @@ author: rjpeterson
 email: hanzisizeextension@gmail.com
 description: Hanzisize is a browser extension that allows selective resizing of text
   according to the language selected by the user.
-baseurl: "/ubuild-jekyll"
+baseurl: "/hanzisize-about"
 url: ''
 defaults:
 - scope:
