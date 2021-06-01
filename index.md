@@ -123,7 +123,7 @@ page_sections:
       button_text: Add to Chrome
       enabled: true
       url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
-    headline: testing headline
+    headline: ''
     slug: chrome
     content: <a href="https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en"
       title="Chrome Webstore"><img src="/uploads/2021/05/28/chrome_128x128.png"></a>
