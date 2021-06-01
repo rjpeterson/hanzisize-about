@@ -49,6 +49,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   col_2:
     headline: Only Resize What You Need
     slug: need
@@ -58,6 +60,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   col_3:
     headline: See More Detail
     slug: detail
@@ -67,6 +71,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   column_4:
     block: ''
     background_image: ''
@@ -84,20 +90,29 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: Arabic - Burmese - Chinese<br><br>English - Georgian - Korean - Hebrew<br><br>Hindi - Japanese - Thai
+    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
+      - Hindi - Japanese - Thai
     cta:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   col_2:
     headline: Multi-Browser Support
     slug: browser
-    content: <img src="hanzisize-about/uploads//2021/05/27/chrome_64x64.png">   <img src="hanzisize-about/uploads//2021/05/27/firefox_64x64.png">   <img src="hanzisize-about/uploads//2021/05/27/edge_64x64.png">   <img src="hanzisize-about/uploads//2021/05/27/opera_64x64.png">   <img
-      src="hanzisize-about/uploads//2021/05/27/brave_64x64.png">
+    content: ''
     cta:
       enabled: false
       url: ''
       button_text: ''
+    gallery:
+    - "/uploads/2021/05/27/chrome_64x64.png"
+    - "/uploads/2021/05/27/firefox_64x64.png"
+    - "/uploads/2021/05/27/edge_64x64.png"
+    - "/uploads/2021/05/27/opera_64x64.png"
+    - "/uploads/2021/05/27/brave_64x64.png"
+    image: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/28/biang.png"
@@ -154,6 +169,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   column_2:
     headline: ''
     slug: ''
@@ -162,6 +179,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
   column_3:
     headline: ''
     slug: ''
@@ -170,6 +189,8 @@ page_sections:
       enabled: false
       url: ''
       button_text: ''
+    gallery: []
+    image: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
