@@ -146,30 +146,6 @@ page_sections:
     slug: edge
     content: <a href="https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa"
       title="Edge Add-ons"><img src="/uploads/2021/05/28/edge_128x128.png"></a>
-  column-1:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-  column_2:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
-  column_3:
-    headline: ''
-    slug: ''
-    content: ''
-    cta:
-      enabled: false
-      url: ''
-      button_text: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
