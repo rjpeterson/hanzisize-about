@@ -120,7 +120,7 @@ page_sections:
     url: ''
     button_text: ''
 - template: my-3-column-text
-  block: my-three-column-1
+  block: my-three-column-text-1
   header: Install Now
   col_1:
     cta:
