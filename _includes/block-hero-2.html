@@ -12,7 +12,9 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         {% endif %}
       </div>
       <div class="column media">
+        {% if section.image.image == true %}
         <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}" loading="lazy">
+        {% endif %}
       </div>
     </div>
   </div>
