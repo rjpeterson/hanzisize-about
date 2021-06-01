@@ -10,10 +10,14 @@
         {{ section.col_2 }}
       </div>
       <div class="column">
-          {{ section.col_3 }}
+        <a href="{{ section.column_3_image_link" }}">
+          <img src="{{ section.column_3_image | relative_url  }}" height="auto" alt="buy me a coffee">
+        </a>
       </div>
       <div class="column">
-          {{ section.col_4 }}
+        <a href="{{ section.column_4_image_link" }}">
+          <img src="{{ section.column_4_image | relative_url  }}" height="auto" alt="bitcoin qr code">
+        </a>
       </div>
     </div>
   </div>
