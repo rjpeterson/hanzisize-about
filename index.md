@@ -116,8 +116,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: 3-column-text
-  block: three-column-1
+- template: my-3-column-text
+  block: my-three-column-1
   col_1:
     cta:
       button_text: Add to Chrome
