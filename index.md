@@ -118,6 +118,7 @@ page_sections:
     button_text: ''
 - template: my-3-column-text
   block: my-three-column-1
+  header: Install Now
   col_1:
     cta:
       button_text: Add to Chrome
