@@ -8,7 +8,7 @@
       <div class="column">
         <h3>{{ section.col_2.headline }}</h3>
         <ul>
-          {% for image in section.gallery %}
+          {% for image in section.col_2.gallery %}
             <li><img src="{{ image | relative_url }}"></li>
           {% endfor %}
         </ul>
