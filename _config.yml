@@ -4,8 +4,8 @@ author: rjpeterson
 email: hanzisizeextension@gmail.com
 description: Hanzisize is a browser extension that allows selective resizing of text
   according to the language selected by the user.
-baseurl: "/hanzisize-about"
-url: ''
+baseurl: '/hanzisize-about'
+url: 'https://rjpeterson.github.io'
 defaults:
 - scope:
     path: ''
