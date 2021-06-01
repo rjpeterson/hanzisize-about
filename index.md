@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Hanzisize
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -93,8 +93,8 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
-      - Hindi - Japanese - Thai
+    content: Arabic - Burmese - Chinese<br><br>English -Georgian - Korean - Hebrew<br><br>Hindi
+      - Japanese - Thai
     cta:
       enabled: false
       url: ''
