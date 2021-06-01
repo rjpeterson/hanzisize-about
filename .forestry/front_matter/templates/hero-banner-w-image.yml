@@ -21,6 +21,10 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
+  - name: hero_image_toggle
+    type: boolean
+    label: Hero Image Toggle
+    default: true
 - type: textarea
   name: headline
   label: Headline
