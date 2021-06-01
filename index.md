@@ -83,8 +83,7 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: Arabic - Burmese - Chinese - English -Georgian<br><br>Korean - Hebrew
-      - Hindi - Japanese - Thai
+    content: Arabic - Burmese - Chinese<br><br>English - Georgian - Korean - Hebrew<br><br>Hindi - Japanese - Thai
     cta:
       enabled: false
       url: ''
