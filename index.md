@@ -51,6 +51,7 @@ page_sections:
       button_text: ''
     gallery: []
     image: ''
+    image_link: ''
   col_2:
     headline: Only Resize What You Need
     slug: need
@@ -62,6 +63,7 @@ page_sections:
       button_text: ''
     gallery: []
     image: ''
+    image_link: ''
   col_3:
     headline: See More Detail
     slug: detail
@@ -73,6 +75,19 @@ page_sections:
       button_text: ''
     gallery: []
     image: ''
+    image_link: ''
+  column_4:
+    block: ''
+    background_image: ''
+    image:
+      image: ''
+      alt_text: ''
+    headline: ''
+    content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -86,6 +101,7 @@ page_sections:
       button_text: ''
     gallery: []
     image: ''
+    image_link: ''
   col_2:
     headline: Multi-Browser Support
     slug: browser
@@ -101,6 +117,7 @@ page_sections:
     - "/uploads/2021/05/27/opera_64x64.png"
     - "/uploads/2021/05/27/brave_64x64.png"
     image: ''
+    image_link: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/28/biang.png"
@@ -129,8 +146,10 @@ page_sections:
       url: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
     headline: ''
     slug: chrome
-    content: <a href="https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en"
-      title="Chrome Webstore"><img src="/uploads/2021/05/28/chrome_128x128.png"></a>
+    content: ''
+    gallery: []
+    image: "/uploads/2021/05/28/chrome_128x128.png"
+    image_link: https://chrome.google.com/webstore/detail/hanzisize/jcljolcajgicemckjlgndbmoaeoobodk?hl=en
   col_2:
     cta:
       enabled: true
@@ -138,8 +157,10 @@ page_sections:
       url: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
     headline: ''
     slug: firefox
-    content: <a href="https://addons.mozilla.org/en-US/firefox/addon/hanzisize/" title="Firefox
-      Add-ons"><img src="/uploads/2021/05/28/firefox_128x128.png"></a>
+    content: ''
+    gallery: []
+    image: "/uploads/2021/05/28/firefox_128x128.png"
+    image_link: https://addons.mozilla.org/en-US/firefox/addon/hanzisize/
   col_3:
     cta:
       button_text: Add to Edge
@@ -147,8 +168,40 @@ page_sections:
       url: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
     headline: ''
     slug: edge
-    content: <a href="https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa"
-      title="Edge Add-ons"><img src="/uploads/2021/05/28/edge_128x128.png"></a>
+    content: ''
+    gallery: []
+    image: "/uploads/2021/05/28/edge_128x128.png"
+    image_link: https://microsoftedge.microsoft.com/addons/detail/kfnlbmlnhaikojdaedhjfbjjfgklblfa
+  column-1:
+    headline: ''
+    slug: ''
+    content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
+    gallery: []
+    image: ''
+  column_2:
+    headline: ''
+    slug: ''
+    content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
+    gallery: []
+    image: ''
+  column_3:
+    headline: ''
+    slug: ''
+    content: ''
+    cta:
+      enabled: false
+      url: ''
+      button_text: ''
+    gallery: []
+    image: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
@@ -167,3 +220,4 @@ page_sections:
 block: hero-2
 
 ---
+[https://www.buymeacoffee.com/djmouthguard](https://www.buymeacoffee.com/djmouthguard "https://www.buymeacoffee.com/djmouthguard")
