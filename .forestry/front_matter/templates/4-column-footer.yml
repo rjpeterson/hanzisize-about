@@ -10,6 +10,11 @@ fields:
 - type: file
   label: Column 1 Image
   name: image
+- name: image_link
+  type: text
+  config:
+    required: false
+  label: Image Link
 - type: textarea
   name: col_2
   label: Column 2 Content
