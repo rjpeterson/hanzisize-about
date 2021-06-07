@@ -138,7 +138,7 @@ page_sections:
     button_text: ''
 - template: my-3-column-text
   block: my-three-column-text-1
-  header: Install Now
+  header: Choose your browser
   col_1:
     cta:
       button_text: Add to Chrome
@@ -206,7 +206,8 @@ page_sections:
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
   image_link: https://github.com/rjpeterson/Hanzisize
-  col_2: "<h2>Love Hanzisize?</h2><h3>Make a $5 donation today!</h3>"
+  col_2: "<h2>Love Hanzisize?</h2><h3>Make a $5 donation today!</h3><br>
+  <h5>Click <a href="https://github.com/rjpeterson/Hanzisize#donate">here</a> for even more donation options</h5>"
   col_4: ''
   col_3: ''
   column_3_image: "/uploads/2021/05/28/bmc.png"
@@ -215,8 +216,8 @@ page_sections:
   column_4_image_link: bitcoin:3DDKyyQh3o5Ve6mrCn5L8ttquddbxkY4q8
 - template: simple-footer
   block: footer-1
-  content: "Made with \U0001F375 by rjpeterson<br><a href=\"http://www.freepik.com\"
-    title=\"\">With assets designed by Cosmo-Studio / Freepik</a>"
+  content: "Made with \U0001F375 by rjpeterson<br><h5><a href=\"http://www.freepik.com\"
+    title=\"\">With assets designed by Cosmo-Studio / Freepik</a></h5>"
 block: hero-2
 
 ---
