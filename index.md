@@ -138,7 +138,7 @@ page_sections:
     button_text: ''
 - template: my-3-column-text
   block: my-three-column-text-1
-  header: Choose your browser
+  header: Choose Your Browser
   col_1:
     cta:
       button_text: Add to Chrome
@@ -216,8 +216,8 @@ page_sections:
   column_4_image_link: bitcoin:3DDKyyQh3o5Ve6mrCn5L8ttquddbxkY4q8
 - template: simple-footer
   block: footer-1
-  content: "Made with \U0001F375 by rjpeterson<br><h5><a href=\"http://www.freepik.com\"
-    title=\"\">With assets designed by Cosmo-Studio / Freepik</a></h5>"
+  content: "Made with \U0001F375 by rjpeterson<br><h6><a href=\"http://www.freepik.com\"
+    title=\"\">With assets designed by Cosmo-Studio / Freepik</a></h6>"
 block: hero-2
 
 ---
