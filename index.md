@@ -93,8 +93,7 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: Arabic - Burmese - Chinese<br><br>English - Georgian - Korean - Hebrew<br><br>Hindi
-      - Japanese - Thai
+    content: "<span>العربية </span> - <span>မြန်မာဘာသာ</span> - <span>中文</span><br><br><span>English</span> - <span>ქართული</span> - <span>한국어</span> - <span>עברית</span><br><br><span>हिन्दी</span> - <span>日本語</span> - <span>ไทย</span>"
     cta:
       enabled: false
       url: ''
