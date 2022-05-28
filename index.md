@@ -93,7 +93,9 @@ page_sections:
   col_1:
     headline: Multi-Language Support
     slug: language
-    content: "<span>العربية </span> - <span>မြန်မာဘာသာ</span> - <span>中文</span><br><br><span>English</span> - <span>ქართული</span> - <span>한국어</span> - <span>עברית</span><br><br><span>हिन्दी</span> - <span>日本語</span> - <span>ไทย</span>"
+    content: "<span>العربية </span> - <span>မြန်မာဘာသာ</span> - <span>中文</span><br><br><span>English</span>
+      - <span>ქართული</span> - <span>한국어</span> - <span>עברית</span><br><br><span>हिन्दी</span>
+      - <span>日本語</span> - <span>ไทย</span>"
     cta:
       enabled: false
       url: ''
@@ -205,13 +207,13 @@ page_sections:
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
   image_link: https://github.com/rjpeterson/Hanzisize
-  col_2: "<h2>Love Hanzisize?</h2><h3>Make a $5 donation today!</h3><br>
-  <h5>Click <a href=\"https://github.com/rjpeterson/Hanzisize#donate\">here</a> for even more donation options</h5>"
+  col_2: Love Hanzisize?Make a $5 donation today!<br> Click <a href="https://github.com/rjpeterson/Hanzisize#donate">here</a>
+    for even more donation options
   col_4: ''
   col_3: ''
   column_3_image: "/uploads/2021/05/28/bmc.png"
   column_4_image: "/uploads/2021/05/28/casaSKbtcQR.png"
-  column_3_image_link: https://www.buymeacoffee.com/djmouthguard
+  column_3_image_link: https://ko-fi.com/rjpeterson
   column_4_image_link: bitcoin:3DDKyyQh3o5Ve6mrCn5L8ttquddbxkY4q8
 - template: simple-footer
   block: footer-1
