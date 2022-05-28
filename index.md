@@ -207,7 +207,7 @@ page_sections:
   block: footer-2
   image: "/uploads/2021/05/28/logosquare.png"
   image_link: https://github.com/rjpeterson/Hanzisize
-  col_2: Love Hanzisize?Make a $5 donation today!<br> Click <a href="https://github.com/rjpeterson/Hanzisize#donate">here</a>
+  col_2: Love Hanzisize?<br>Make a $5 donation today!<br> Click <a href="https://github.com/rjpeterson/Hanzisize#donate">here</a>
     for even more donation options
   col_4: ''
   col_3: ''
